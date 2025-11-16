@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "186663190348",
+    "project_id": "dolcezza-586d5",
+    "storage_bucket": "dolcezza-586d5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186663190348:android:5b5d48ad6d8860f88e99e9",
+        "android_client_info": {
+          "package_name": "com.example.dolcezza"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOnvaqpuR9gx_jX6A6tqDXnY4LoWr41YI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
