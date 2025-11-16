@@ -62,7 +62,7 @@ fun AboutUsScreen(navController: NavController) {
         TeamMember("Rebeca Matewanga", "Desenvolvedora Website", R.drawable.beca),
         TeamMember("João Pedro Machado", "Desenvolvedor Aplicativo", R.drawable.joee),
         TeamMember("Mariana Ocireu", "Desenvolvedora Aplicativo", R.drawable.mari),
-        TeamMember("Giovanna Aparecida", "Denvolvedora Website", R.drawable.gi)
+        TeamMember("Giovanna Aparecida", "Desenvolvedora Website", R.drawable.gi)
     )
 
     Scaffold(
