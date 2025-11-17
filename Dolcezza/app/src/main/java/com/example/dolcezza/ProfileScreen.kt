@@ -148,7 +148,7 @@ fun ProfileScreen(navController: NavController) {
                 }
 
                 ProfileItem("Métodos de Pagamento", Icons.Default.Payment) {
-                    navController.navigate("payments")
+                    navController.navigate("paymentMethods")
                 }
 
                 // Ultimo item sem divisor

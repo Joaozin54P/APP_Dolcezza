@@ -89,5 +89,13 @@ fun AppNavigation(navController: NavHostController, innerPadding: PaddingValues)
         composable("special") {
             SpecialScreen()
         }
+
+        composable("payment") {
+            PaymentScreen()
+        }
+
+        composable("paymentMethods") {
+            paymentMethodsScreen()
+        }
     }
 }
