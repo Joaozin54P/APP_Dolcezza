@@ -1,6 +1,6 @@
 # 🍰 **Dolcezza – Sabores que Encantam**  
 <p align="center">
-  <img width="800" height="800" alt="banner-dolcezza" src="https://github.com/user-attachments/assets/9980307f-cb37-4aa9-a6e6-7047799ce8fd" />
+  <img width="200" height="200" alt="banner-dolcezza" src="logo.png" />
 </p>
 
 <p align="center">
