@@ -95,7 +95,10 @@ fun AppNavigation(navController: NavHostController, innerPadding: PaddingValues)
         }
 
         composable("paymentMethods") {
-            paymentMethodsScreen()
+            paymentMethodsScreen(
+                onBackClick = { navController.popBackStack() }
+            )
         }
+
     }
 }
