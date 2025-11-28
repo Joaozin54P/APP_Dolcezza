@@ -76,23 +76,25 @@ Gostaríamos de agradecer a todos que visitaram o nosso repositório. Caso queir
 
 João Félix
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=pink)](https://www.linkedin.com/in/jo4n/)  
-[![Gmail](https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jdasilvamachado1@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-8B5E3C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo4n/)  
+[![Gmail](https://img.shields.io/badge/Gmail-F8C8D8?style=for-the-badge&logo=gmail&logoColor=42292A)](mailto:jdasilvamachado1@gmail.com)
+
 
 Giovanna Aparecida:
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=pink)](https://www.linkedin.com/in/giovanna-aparecida-75269b2b5)  
-[![Gmail](https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-8B5E3C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanna-aparecida-75269b2b5)  
+[![Gmail](https://img.shields.io/badge/Gmail-F8C8D8?style=for-the-badge&logo=gmail&logoColor=42292A)](mailto:)
 
 
 Mariana Ocireu
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=pink)](https://www.linkedin.com/in/mariana-ocireu-61aa722b3/)  
-[![Gmail](https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marianaocireu@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-8B5E3C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-ocireu-61aa722b3/)  
+[![Gmail](https://img.shields.io/badge/Gmail-F8C8D8?style=for-the-badge&logo=gmail&logoColor=42292A)](mailto:marianaocireu@gmail.com)
+
 
 Rebeca Matewanga
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=pink)](https://www.linkedin.com/in/marianaociz/)  
-[![Gmail](https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-8B5E3C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianaociz/)  
+[![Gmail](https://img.shields.io/badge/Gmail-F8C8D8?style=for-the-badge&logo=gmail&logoColor=42292A)](mailto:)
 
 
