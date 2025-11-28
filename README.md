@@ -95,6 +95,6 @@ Mariana Ocireu
 Rebeca Matewanga
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-8B5E3C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianaociz/)  
-[![Gmail](https://img.shields.io/badge/Gmail-F8C8D8?style=for-the-badge&logo=gmail&logoColor=42292A)](mailto:)
+[![Gmail](https://img.shields.io/badge/Gmail-F8C8D8?style=for-the-badge&logo=gmail&logoColor=42292A)](mailto:rebeca.kamalandua@gmail.com)
 
 
